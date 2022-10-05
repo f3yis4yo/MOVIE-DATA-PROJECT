@@ -1,2 +1,3 @@
-# Movie_data_project
-Analysis of a movie dataset gotten from "tmdb"
+# Feat : Investigate a dataset
+
+Investigate and analyze a move dataset
